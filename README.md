@@ -1,4 +1,4 @@
-## Rock paper scissors
+## Calculator Challenge
 
 A simple calculator exercise
 
